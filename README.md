@@ -13,10 +13,10 @@ https://michieru.github.io/michi-paperback/main
 
 |       Name        |               URL               |
 | :---------------: | :-----------------------------: |
-| Bentomanga        | https://bentomanga.com/         |
-| FRScan            | https://fr-scan.com             |
-| FuryoSquad        | https://furyosquad.com/         |
-| LelscanVF         | https://lelscanvf.cc/           |
-| MangasScantrad    | https://manga-scantrad.net/     |
-| ReaperScansFR     | https://reaperscans.fr/         |
-| Scantrad Union    | https://scantrad-union.com/     |
+| Bentomanga        | [base URL](https://bentomanga.com/)         |
+| FRScan            | [base URL](https://fr-scan.com/)            |
+| FuryoSquad        | [base URL](https://furyosquad.com/)         |
+| LelscanVF         | [base URL](https://lelscanvf.cc/)           |
+| MangasScantrad    | [base URL](https://manga-scantrad.net/)     |
+| ReaperScansFR     | [base URL](https://reaperscans.fr/)         |
+| Scantrad Union    | [base URL](https://scantrad-union.com/)     |
